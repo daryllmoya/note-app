@@ -1,0 +1,22 @@
+# Operating System and Editor Files
+.DS_Store
+.vscode/
+*.log 
+
+# Node.js Dependencies and Build Output
+node_modules/
+npm-debug.log*
+build/
+dist/
+
+# TypeScript Specific
+*.js
+*.js.map
+tsconfig.tsbuildinfo 
+
+# Testing
+coverage/
+
+# Environment Variables (If applicable)
+.env 
+.env.local
